@@ -1,0 +1,16 @@
+{
+  "name": "extract-adresses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "log-update": "^3.3.0",
+    "mongodb": "^3.3.3",
+    "npm": "^6.12.1"
+  }
+}
