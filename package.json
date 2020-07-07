@@ -11,6 +11,6 @@
   "dependencies": {
     "log-update": "^3.3.0",
     "mongodb": "^3.3.3",
-    "npm": "^6.12.1"
+    "npm": "^6.14.6"
   }
 }
